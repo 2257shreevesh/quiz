@@ -24,18 +24,11 @@ public class Easy {
 				"C.	Kolkata\n" + 
 				"D.	New Delhi";
 		ans[2] = 'B';
-		que[2] = "Pink City in India is ?\n" + 
+		que[3] = "Pink City in India is ?\n" + 
 				"A.	Karnataka\n" + 
 				"B.	Mysore\n" + 
 				"C.	Jaipur\n" + 
 				"D.	Hyderabad";
-		ans[2] = 'C';
-		que[3] = "The largest river in India is ?\r\n" + 
-				"A.	Yamuna\r\n" + 
-				"B.	Mandovi\r\n" + 
-				"C. Ganga\r\n" + 
-				"D.	Indus";
-				
 		ans[3] = 'C';
 		que[4] = "Which of the following is NOT a computer programming language ?\n" + 
 				"A.	PHP\n" + 
