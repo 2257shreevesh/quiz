@@ -1,9 +1,9 @@
+import quiz.Main;
 
 public class Home {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		Main m1=new Main();
+		m1.loop();
 	}
-
 }
