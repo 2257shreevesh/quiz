@@ -24,55 +24,50 @@ public class Medium {
 				"C.	Silicon\n" + 
 				"D.	Platinum";
 		ans[2] = 'C';
-		que[2] = "Where is the headquarter of the ICC ?\n" + 
+		que[3] = "Where is the headquarter of the ICC ?\n" + 
 				"A.	London\n" + 
 				"B.	Cape town\n" + 
 				"C.	Sydney\n" + 
 				"D.	Dubai";
-		ans[2] = 'D';
-		que[3] = "Which of these statements is incorrect?\r\n" + 
-				"A.	try block need not to be followed by catch block\r\n" + 
-				"B.	try block can be followed by finally block instead of catch block\r\n" + 
-				"C. try can be followed by both catch and finally block\r\n" + 
-				"D.	try need not to be followed by anything";
-				
 		ans[3] = 'D';
-		que[4] = "Which sport's competition is known as the FIBA 3×3 World Cup ?\n" + 
+		que[4] = "The largest river in India is ?\n" + 
+				"A.	Mandovi\n" + 
+				"B.	Brahmaputra\n" + 
+				"C.     Ganga\n" + 
+				"D.	Yamuna";
+				
+		ans[4] = 'C';
+		que[5] = "Which sport's competition is known as the FIBA 3×3 World Cup ?\n" + 
 				"A.	Basketball\n" + 
 				"B.	Baseball\n" + 
 				"C.	Rugby\n" + 
 				"D.	Football";
-		ans[4] = 'A';
-		que[5] = "The classical/folk dances namely Bharatnatyam and Kavadi belong to ?\n" + 
+		ans[5] = 'A';
+		que[6] = "The classical/folk dances namely Bharatnatyam and Kavadi belong to ?\n" + 
 				"A. Arunachal Pradesh\n" + 
 				"B.	Karnataka\n" + 
 				"C.	Tamil Nadu\n" + 
 				"D.	Jammu and Kashmir";
-		ans[5] = 'C';
-		que[6] = "What is 3/7 chicken, 2/3 cat and 2/4 goat?\n" + 
+		ans[6] = 'C';
+		que[7] = "What is 3/7 chicken, 2/3 cat and 2/4 goat?\n" + 
 				"A.	Childbirth\n" + 
 				"B.	Chiffon\n" + 
 				"C.	Chicago\n" + 
 				"D.	Chipmunk";
-		ans[6] = 'C';
-		que[7] = "I am a mother's child and a father's child but nobody's son. What am I ?\n" + 
+		ans[7] = 'C';
+		que[8] = "I am a mother's child and a father's child but nobody's son. What am I ?\n" + 
 				"A.	A grandson\n" + 
-				"B.	native\n" + 
-				"C.	subclasses\n" + 
-				"D.	reference";
-		ans[7] = 'B';
-		que[8] = "Which is a reserved word in the Java programming language?\n" + 
-				"A.	method\n" + 
-				"B.	native\n" + 
-				"C.	subclasses\n" + 
-				"D.	reference";
+				"B.	A daughter\n" + 
+				"C.	A father\n" + 
+				"D.	An uncle";
 		ans[8] = 'B';
-		que[9] = "Which is a reserved word in the Java programming language?\n" + 
-				"A.	method\n" + 
-				"B.	native\n" + 
-				"C.	subclasses\n" + 
-				"D.	reference";
-		ans[9] = 'B';
+		que[9] = "The first computer made available for commercial use was ...\n" + 
+				"A.	MANIAC\n" + 
+				"B.	ENIAC\n" + 
+				"C.	UNIVAC\n" + 
+				"D.	FANIAC";
+		ans[9] = 'C';
+		
 	}
 	
 	public void display(Integer i)
