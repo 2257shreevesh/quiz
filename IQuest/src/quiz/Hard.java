@@ -6,73 +6,67 @@ public class Hard {
 	Character ans[] = new Character[n];
 	public Hard()
 	{
-		que[0] = "Which one of these lists contains only Java programming language keywords?"
-				+ "\nA. class, if, void, long, Int, continue"
-				+ "\nB. goto, instanceof, native, finally, default, throws"
-				+ "\nC. try, virtual, throw, final, volatile, transient"
-				+ "\nD. strictfp, constant, super, implements, do";
-		ans[0] = 'B';
-		que[1] = "Which is a valid keyword in java?\n" + 
-				"A.	interface\n" + 
-				"B.	string\n" + 
-				"C.	Float\n" + 
-				"D.	unsigned";
+		que[0] = "India played its first one day cricket in ?"
+				+ "\nA. 1970"
+				+ "\nB. 1971"
+				+ "\nC. 1972"
+				+ "\nD. 1974";
+		ans[0] = 'D';
+		que[1] = "When was the first Cricket World Cup held ?\n" + 
+				"A.	1975\n" + 
+				"B.	1953\n" + 
+				"C.	1979t\n" + 
+				"D.	1983";
 		ans[1] = 'A';
-		que[2] = "Which is a reserved word in the Java programming language?\n" + 
-				"A.	method\n" + 
-				"B.	native\n" + 
-				"C.	subclasses\n" + 
-				"D.	reference";
-		ans[2] = 'B';
-		que[2] = "Which is a reserved word in the Java programming language?\n" + 
-				"A.	method\n" + 
-				"B.	native\n" + 
-				"C.	subclasses\n" + 
-				"D.	reference";
-		ans[2] = 'B';
-		que[3] = "Which of these statements is incorrect?\r\n" + 
-				"A.	try block need not to be followed by catch block\r\n" + 
-				"B.	try block can be followed by finally block instead of catch block\r\n" + 
-				"C. try can be followed by both catch and finally block\r\n" + 
-				"D.	try need not to be followed by anything";
+		que[2] = "While passing over an obstacle a light ray slightly bends round the corner. The phenomenon is known as ...\n" + 
+				"A.	Scattering\n" + 
+				"B.	Polarisation\n" + 
+				"C.	Diffraction\n" + 
+				"D.	Refraction";
+		ans[2] = 'C';
+		que[3] = "Who is the founder of Wikipedia?\n" + 
+				"A.	Peer Schneider\n" + 
+				"B.	Byron Looper\n" + 
+				"C.     Rickard Eriksson\n" + 
+				"D.	Jimmy Wales";
 				
 		ans[3] = 'D';
-		que[4] = "Which is a reserved word in the Java programming language?\n" + 
-				"A.	method\n" + 
-				"B.	native\n" + 
-				"C.	subclasses\n" + 
-				"D.	reference";
-		ans[4] = 'B';
-		que[5] = "Which is a reserved word in the Java programming language?\n" + 
-				"A.	method\n" + 
-				"B.	native\n" + 
-				"C.	subclasses\n" + 
-				"D.	reference";
-		ans[5] = 'B';
-		que[6] = "Which is a reserved word in the Java programming language?\n" + 
-				"A.	method\n" + 
-				"B.	native\n" + 
-				"C.	subclasses\n" + 
-				"D.	reference";
-		ans[6] = 'B';
-		que[7] = "Which is a reserved word in the Java programming language?\n" + 
-				"A.	method\n" + 
-				"B.	native\n" + 
-				"C.	subclasses\n" + 
-				"D.	reference";
+		que[4] = "What flies when it's born, lies when it's alive, and runs when it's dead?\n" + 
+				"A.	A grain of sand\n" + 
+				"B.	An eaglet\n" + 
+				"C.	A snowflake\n" + 
+				"D.	A fruit fly";
+		ans[4] = 'C';
+		que[5] = "Who among the following wrote Sanskrit grammar ?\n" + 
+				"A.	Kalidasa\n" + 
+				"B.	Charak\n" + 
+				"C.	Panini\n" + 
+				"D.	Aryabhatt";
+		ans[5] = 'C';
+		que[6] = "Tsunamis are not caused by ...\n" + 
+				"A.	Hurricanes\n" + 
+				"B.	Earthquakes\n" + 
+				"C.	Undersea Landslides\n" + 
+				"D.	Volcanic Eruptions";
+		ans[6] = 'A';
+		que[7] = "Stapes, the smallest and the lightest bone in human body, is the part of which organ ?\n" + 
+				"A.	Neck\n" + 
+				"B.	Ear\n" + 
+				"C.	Hand\n" + 
+				"D.	Nose";
 		ans[7] = 'B';
-		que[8] = "Which is a reserved word in the Java programming language?\n" + 
-				"A.	method\n" + 
-				"B.	native\n" + 
-				"C.	subclasses\n" + 
-				"D.	reference";
-		ans[8] = 'B';
-		que[9] = "Which is a reserved word in the Java programming language?\n" + 
-				"A.	method\n" + 
-				"B.	native\n" + 
-				"C.	subclasses\n" + 
-				"D.	reference";
-		ans[9] = 'B';
+		que[8] = "Fatigue is of formation and depositing of which among the following acids in Muscles ?\n" + 
+				"A.	Lactic Acid\n" + 
+				"B.	Acetic Acid\n" + 
+				"C.	Citric Acid\n" + 
+				"D.	Pyruvic Acid";
+		ans[8] = 'A';
+		que[9] = "Who wrote the book By God's Decree?\n" + 
+				"A.	Virat Kohli\n" + 
+				"B.	Sachin Tendulkar\n" + 
+				"C.	Rahul Dravid\n" + 
+				"D.	Kapil Dev";
+		ans[9] = 'D';
 	}
 	
 	public void display(Integer i)
