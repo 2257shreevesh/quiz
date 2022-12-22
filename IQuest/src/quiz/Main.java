@@ -39,9 +39,6 @@ public class Main {
 		User u1 = new User();
 		System.out.println("Enter your name: ");
 		sc = new Scanner(System.in);
-		if(sc.nextLine()==""){
-			System.out.println("Please enter your name first");	
-		}
 		u1.setName(sc.nextLine());
 		u1.setScore(0);
 		System.out.print("Glad to see you, " +u1.getName()+"!!\nLets start");
