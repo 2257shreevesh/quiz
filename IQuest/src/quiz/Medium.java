@@ -33,7 +33,7 @@ public class Medium {
 		que[4] = "The largest river in India is ?\n" + 
 				"A.	Mandovi\n" + 
 				"B.	Brahmaputra\n" + 
-				"C.     Ganga\n" + 
+				"C. Ganga\n" + 
 				"D.	Yamuna";
 				
 		ans[4] = 'C';
